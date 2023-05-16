@@ -29,4 +29,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: jgjakelee/py-job-scraper:latest,jgjakelee/py-job-scraper:${{ github.head_ref }}
+          tags: jgjakelee/py-job-scraper:latest
